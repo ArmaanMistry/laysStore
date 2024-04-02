@@ -1,0 +1,25 @@
+body {
+    background-color: #FFEC16;
+}
+
+.red-theme-color {
+    color: #CB0008;
+}
+
+.new-font {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.btn-custom {
+    background-color: #CB0008; /* Custom background color */
+    border-color: #CB0008; /* Custom border color */
+    color: #ffffff; /* Custom text color */
+}
+
+.btn-custom:hover {
+    background-color: #EF1C24; /* Custom background color on hover */
+    border-color: #EF1C24; /* Custom border color on hover */
+    color: #ffffff; /* Custom text color on hover */
+}
